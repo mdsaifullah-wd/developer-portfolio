@@ -23,6 +23,7 @@ p {
   display: flex;
   background: url(/images/dream-bg.png) no-repeat right bottom;
   margin-bottom: 150px;
+  padding: 0 5%;
 }
 
 .half-width {
