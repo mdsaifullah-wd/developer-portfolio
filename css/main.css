@@ -60,3 +60,6 @@ h1 {
   border-image: linear-gradient(blue, skyblue);
   border-image-slice: 1;
 }
+footer p {
+  text-align: center;
+}
