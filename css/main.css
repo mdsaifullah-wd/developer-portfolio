@@ -16,6 +16,10 @@ h1 {
   background-repeat: no-repeat;
   margin-bottom: 150px;
 }
+#dream-big {
+  display: flex;
+  background: url(/images/dream-bg.png) no-repeat right bottom;
+}
 
 .half-width {
   width: 50%;
