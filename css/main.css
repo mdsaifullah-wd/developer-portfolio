@@ -44,7 +44,7 @@ p {
 }
 #experience-area {
   background: url("/images/exp-bg.png") no-repeat left center;
-  margin-bottom: 150px;
+  padding-bottom: 150px;
 }
 .experiences {
   display: flex;
@@ -52,7 +52,7 @@ p {
 }
 .experience-item {
   width: 40%;
-  padding: 20px;
+  padding: 20px 20px 100px 20px;
   box-shadow: 10px 10px 40px grey;
 }
 #full-stack {
