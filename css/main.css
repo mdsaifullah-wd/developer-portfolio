@@ -14,14 +14,14 @@ p {
 
 #top-banner {
   display: flex;
-  background-image: url("/images/top-banner.png");
+  background-image: url("../images/top-banner.png");
   background-repeat: no-repeat;
   margin-bottom: 150px;
   padding: 0 5%;
 }
 #dream-big {
   display: flex;
-  background: url(/images/dream-bg.png) no-repeat right bottom;
+  background: url(../images/dream-bg.png) no-repeat right bottom;
   margin-bottom: 150px;
   padding: 0 5%;
 }
@@ -44,7 +44,7 @@ p {
   font-weight: 700;
 }
 #experience-area {
-  background: url("/images/exp-bg.png") no-repeat left center;
+  background: url("../images/exp-bg.png") no-repeat left center;
   padding-bottom: 150px;
 }
 .experiences {
